@@ -1,0 +1,184 @@
+body{
+    background-color: rgb(244, 240, 240);
+    border: 15px 10px 15px 10px solid black;
+}
+#cover{
+    background-color: black;
+    height: 120px;
+}
+#cover1{
+    background-color: rgb(12, 11, 11);
+    height: 400px;
+    display: none;
+    color: aliceblue;
+}
+#inside{
+    background-color: rgb(11, 14, 16);
+    height: 380px;
+    width: 800px;
+    box-shadow: 5px white;
+    position: absolute;
+    left: 250px;
+    top: 50px;
+}
+#eee {
+    background-image: url(https://static.tumblr.com/98b7b50f722a879066888b10a2af9dde/jcggx4b/NDGokbayk/tumblr_static_tumblr_static__focused_v3.gif);
+    height: 200px;
+    width: 100%;
+}
+#rrr {
+    background-image: url(http://38.media.tumblr.com/5faafc026fcaa52eb621a6da636e4c80/tumblr_nic0wuHZKZ1tc8rbno1_1280.gif);
+    height: 200px;
+}
+#ttt {
+    background-image: url(https://bestanimations.com/media/cartoons/832883214dancing-cartoon-gif.gif);
+    height: 200px;
+}
+#mouse {
+    background-color: black;
+    display: flex;
+  
+}
+#yyy {
+    background-image: url(https://www.watermeetsmoney.com/wp-content/uploads/2017/11/Header-background-2.png);
+    height: 100px;
+    text-align: center;
+}
+.qqq {
+    background-color: black;
+    
+}
+h1{
+    color: white;
+    text-align: center;
+}
+p{
+    color: white;
+    position: relative;
+    left: 10px;
+}
+h2 {
+    color: azure;
+    position: relative;
+    left: 10px;
+}
+h3 {
+    color: white;
+    position: relative;
+    left: 10px;
+}
+h4 {
+    color: aliceblue;
+    padding-left: 150px;
+}
+label{
+    color: aliceblue;
+    position: relative;
+    left: 10px;
+}
+#uuu {
+    background-image: url(https://i.pinimg.com/originals/df/1f/f3/df1ff3761db6929d52ec330e3c1b4bf1.gif);
+    height: 50px;
+}
+img{
+    height: 300px;
+    width: 400px; 
+    position: relative;
+    left: 125%;  
+}
+#dd1{
+   
+    width: 25%;
+}
+#dd2{
+    display: none;
+    width: 25%;
+}
+#dd3{
+    display: none;
+    width: 25%;
+}
+#iii{
+    background-image: url(https://www.thisiscolossal.com/wp-content/uploads/2018/08/Isopoly_01.gif);
+    height: 100px;
+    
+}
+#ten{
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(209, 15, 54);
+}
+#tin{
+    padding: 40px;
+    display: none;
+}
+#ooo{
+    background-image: url(https://thumbs.gfycat.com/AdmiredImpressiveJohndory-max-1mb.gif);
+    height: 100px;
+}
+li{
+    color: aliceblue;
+    position: relative;
+    left: 10px;
+}
+#men{
+    color: aliceblue;
+}
+
+#ccc {
+    background-image: url(https://img.freepik.com/free-vector/casino-cards-background-with-sparkles-lights_1017-33695.jpg?w=2000);
+    height: 300px;
+}
+#dd4{
+    left: 100px;
+   
+}
+button{
+    height: 50px;
+    width: 120px;
+    border-radius: 25px;
+    font-size: 15px;
+    position: relative;
+    left: 45%;
+}
+#scarlet {
+    padding: 10px;
+    text-align: center;
+    color: azure;
+    background-color: black;
+    box-shadow: 0 0 15px white;
+}
+#violet {
+    padding: 100px;
+    display: none;
+    color: black;
+    background-color: aliceblue;
+}
+
+#comment{
+    background-color: rgb(248, 248, 242);
+    color: rgb(205, 28, 28);
+    padding-top: 10px;
+}
+#feeds{
+     background-color: black;
+     height: 200px;
+}
+#send{
+    position: relative;
+    left: 10%;
+}
+#link{
+    position: relative;
+    left: 10%;
+}
+.king{
+    background-color: black;
+    justify-content: left;
+    text-align: left;
+}
+.important {
+    color: red;
+    font-weight: bold;
+}
+
